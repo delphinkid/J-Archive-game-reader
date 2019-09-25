@@ -15,3 +15,13 @@ DJ</br>
 2</br>
 
 If you want to pause a game, just hit the space bar, and hit it again when you want to resume.
+
+
+
+
+Compile notes:</br>
+Files in the .classpath are not included in this repo. You can get them from the official J-soup and mary tts repos.</br>
+Mary TTS:</br>
+https://github.com/marytts/marytts/releases</br>
+Jsoup:</br>
+https://github.com/jhy/jsoup/releases
